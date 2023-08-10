@@ -4,9 +4,9 @@ Juego de nivel 1 de SODVI, hecho por Omar Magno, Efra de León y Liliana Mendoza
 Integrantes:
 
 
-Magno García Omar - Coder
+## Magno García Omar - Coder
 
-De León Vargas Efra Nathaniel - Artista
+## De León Vargas Efra Nathaniel - Artista
 
 
 Semestre: 2024-1
@@ -24,14 +24,44 @@ entretenido y frenético.
 
 Tomamos como inspiración el juego *Ikaruga* debdio al estiulo artísitico y sus mecánicas frenéticas, en la priemra reunión conformamos entre todos que el estilo
 del juego, así como su dirección artística sería fuertemente inspriada del subgénero *Cyberpunk* 
-Al principio se pensó usar estilo *HD*, pero debido a la falta de compromiso de algunos integrantos, se optó por usar pixel art.
+
+![Imagen](Imagenes/adjunto1.png)
+
+
+![Imagen](Imagenes/adjunto2.png)
+
+Al principio se pensó usar estilo *HD*, pero debido a la falta de compromiso de algunos integrantos, se optó por usar pixel art, manteniendo el estilo cyberpunk, 
+pero trasladado al alrte *Pixel Art*.
 De la mano del artista, se creó una nave futurista como personaje jugable además de crear enemigos como coches de policía, autos blindados, entre otros.
 Con respecto a las mecánicas, optamos por acción veritcal, los enemigos irián contra el jugador del lado izquierdo de la pantalla, se tuvo en mente agregar
 *Power Ups* pero a falta de tiempo de desechó la idea.
+
+![Imagen](Imagenes/adjunto3.png)
+
 Para el puntaje, el coder agregó uncontador que marca el tiempo con vida que tiene el jugardor, el objetivo del juego es sobrevivir la mayor el mayor tiempo
 posible frente a los obstaculos que se presenten.
+Conforme el proyecto avanzaba, el coder armó un esqueleto del juego para probar las mecánicas que se implementarían al juego, de esta forma logramos
+identificar cuáles mecánicas ayudarían a tener un juego más freneético, y cuales otras, por el contrario, serían perjudiciales al *gameplay*.
+
+![Imagen](Imagenes/adjunto4.png)
+
+Por medio de Discord, se fueron subiendo los avances, los integrantes que sobraron subían sus progresos para ser compartidos y escuchar las diferentes opiniones
+de los demás integrantes.
+
+![Imagen](Imagenes/adjunto5.png)
+
 Debido a la desaparición de algunos de los integrantas, se trabajó a marchas forzadas, en algunos momentos el coder tenía que realizar el diseño de los menús y 
 agrupar todo, sin embargo en mensaje se acordaron la mayoría de las decisiones del trabajo.
+
+
+![Imagen](Imagenes/adjunto7.png)
+
+Pese a las bajas que tuvimos en el equipo, logramos sacar el juego adelante, tristemente algunas mecánicas que queríamos implementar, pero por falta de tiempo
+no se lograron (Como personajes seleccionables, mayor fluidez, agregar más animaciones, etc), pese a esto, se consiguió tener un *gameplay* divertido, con una 
+dificultad descente, en el proceso si, hubo bastanres cambios respecto a las idea original, pero consideramos entre todos que respetamos la escencia origial del
+juego.  
+
+![Imagen](Imagenes/adjunto6.png)
 
 # Conclusión:
 
