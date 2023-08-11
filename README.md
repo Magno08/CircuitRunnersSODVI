@@ -48,6 +48,8 @@ identificar cuáles mecánicas ayudarían a tener un juego más freneético, y c
 Por medio de Discord, se fueron subiendo los avances, los integrantes que sobraron subían sus progresos para ser compartidos y escuchar las diferentes opiniones
 de los demás integrantes.
 
+Se realizaron pruebas de música y sonido para el videojuego
+
 ![Imagen](Imagenes/adjunto5.png)
 
 Debido a la desaparición de algunos de los integrantas, se trabajó a marchas forzadas, en algunos momentos el coder tenía que realizar el diseño de los menús y 
@@ -75,3 +77,6 @@ Artista: Para resumirlo lo que sea logrado con la creación de nuestro videojueg
 dificultades se logro completar con los requisitos solicitados y también fue bastante entretenido ir diseñando y saber en que iban a ir esos diseños y ver como 
 progresaba tanto así que aprendí a saber un mejor uso para el pixel art y aprender a usar IA para diseños que posiblemente quedarían haciendo, también a pesar de 
 unas dificultades logre enteder y prepararme para que quedara el proyecto bien y finalizado.
+
+Musico: Para este primer videojuego, me ausente en gran parte del proceso, sin embargo pude retomar el proyecto aprendiendo un nuevo software para la edición, creación y composición de sonido y música FL studio, por el cual seguí el estilo del videojuego cyberpunk y 8 bits. 
+El coder y artista crearon un buen primer videojuego con los requerimientos del primer nivel, aprecio su forma de trabajar y que me permitieran retomar el proyecto.
